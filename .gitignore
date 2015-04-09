@@ -1,0 +1,4 @@
+# ignore other non-project files
+*.pyc
+*.sh
+*.tmp
