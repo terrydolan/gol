@@ -1,5 +1,5 @@
 # gol
-Gol is a simple python implementation of Conway's Game of Life using pygame. 
+Gol is a simple python implementation of Conway's Game of Life using pygame. See [Terry's blog about gol](http://terrydolan.blogspot.co.uk/2015/04/game-of-life.html) for more information.
 
 # Run Game of Life
 ```
